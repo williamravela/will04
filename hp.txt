@@ -1,1 +1,4 @@
-victus ryzen 5
+brand : hp
+model : victus 15'6 144hz
+soc : ryzen 5
+gpu : nvidia gtx 1650
